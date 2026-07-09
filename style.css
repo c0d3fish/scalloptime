@@ -46,6 +46,7 @@ h1 {
 .date {
   font-size: 12px;
   letter-spacing: 0.08em;
+  text-transform: uppercase;
   color: #777;
 }
 
