@@ -65,3 +65,25 @@ h1 {
     min-height: 180px;
   }
 }
+
+header a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.post-page {
+  max-width: 720px;
+  margin: 60px auto;
+  padding: 0 24px;
+}
+
+.post-page h2 {
+  font-size: 42px;
+  line-height: 1.1;
+  font-weight: 500;
+}
+
+.post-page p {
+  font-size: 19px;
+  line-height: 1.7;
+}
