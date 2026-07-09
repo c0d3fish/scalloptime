@@ -1,6 +1,6 @@
 body {
   margin: 0;
-  background: #faf9f6;
+  background: #ffffff;
   color: #111;
   font-family: "Libre Baskerville", Georgia, serif;
 }
@@ -32,7 +32,7 @@ h1 {
 .post-card {
   min-height: 120px;
   border: 1px solid #333;
-  background: white;
+  background: #ffffff;
   padding: 18px 20px;
   text-decoration: none;
   color: inherit;
@@ -42,7 +42,7 @@ h1 {
 }
 
 .post-card:hover {
-  background: #f3f0ea;
+  background: #fff7fa;
 }
 
 .date {
